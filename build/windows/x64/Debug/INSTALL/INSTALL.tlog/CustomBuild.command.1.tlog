@@ -1,0 +1,10 @@
+^E:\DESKTOP\ESP\BUILD\WINDOWS\CMAKEFILES\E89D4FA06FD5E5DC8E9FC36C296C1F7F\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

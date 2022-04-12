@@ -1,0 +1,9 @@
+E:/Desktop/esp/build/windows/runner/Debug/data/icudtl.dat
+E:/Desktop/esp/build/windows/runner/Debug/flutter_windows.dll
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/NOTICES
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Desktop/esp/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

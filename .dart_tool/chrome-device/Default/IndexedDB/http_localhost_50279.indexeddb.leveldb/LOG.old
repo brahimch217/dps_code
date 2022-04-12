@@ -1,0 +1,40 @@
+2022/04/09-13:54:17.392 2008 Creating DB C:\Users\brahim\AppData\Local\Temp\flutter_tools.183f00ce\flutter_tools_chrome_device.8cd01ee4\Default\IndexedDB\http_localhost_50279.indexeddb.leveldb since it was missing.
+2022/04/09-13:54:17.401 2008 Reusing MANIFEST C:\Users\brahim\AppData\Local\Temp\flutter_tools.183f00ce\flutter_tools_chrome_device.8cd01ee4\Default\IndexedDB\http_localhost_50279.indexeddb.leveldb/MANIFEST-000001
+2022/04/09-13:54:17.439 2008 Level-0 table #5: started
+2022/04/09-13:54:17.447 2008 Level-0 table #5: 767 bytes OK
+2022/04/09-13:54:17.449 2008 Delete type=0 #3
+2022/04/09-13:54:17.449 2008 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/09-14:10:17.602 1ae8 Level-0 table #7: started
+2022/04/09-14:10:17.605 1ae8 Level-0 table #7: 3218 bytes OK
+2022/04/09-14:10:17.608 1ae8 Delete type=0 #4
+2022/04/09-14:10:17.608 1ae8 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/09-14:12:57.775 1330 Level-0 table #9: started
+2022/04/09-14:12:57.782 1330 Level-0 table #9: 1710 bytes OK
+2022/04/09-14:12:57.784 1330 Delete type=0 #6
+2022/04/09-14:12:57.785 1330 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 197 : 1
+2022/04/09-14:12:57.786 1330 Compacting 1@0 + 1@1 files
+2022/04/09-14:12:57.789 1330 Generated table #10@0: 87 keys, 2089 bytes
+2022/04/09-14:12:57.789 1330 Compacted 1@0 + 1@1 files => 2089 bytes
+2022/04/09-14:12:57.790 1330 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/09-14:12:57.791 1330 Delete type=2 #9
+2022/04/09-14:12:57.791 1330 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 197 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/09-14:16:57.360 1ef0 Level-0 table #12: started
+2022/04/09-14:16:57.364 1ef0 Level-0 table #12: 1413 bytes OK
+2022/04/09-14:16:57.366 1ef0 Delete type=2 #7
+2022/04/09-14:16:57.366 1ef0 Delete type=0 #8
+2022/04/09-14:16:57.368 1ef0 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x002\x008\x004\x003\x006\x004\x004\x000\x003\x009\x006\x00:\x00w\x00e\x00b\x00:\x000\x00e\x00c\x00f\x003\x000\x00a\x001\x00e\x00e\x001\x00d\x005\x001\x007\x00f\x003\x00a\x009\x003\x00e\x009' @ 218 : 1
+2022/04/09-14:16:57.368 1ef0 Compacting 1@0 + 1@1 files
+2022/04/09-14:16:57.371 1ef0 Generated table #13@0: 97 keys, 2164 bytes
+2022/04/09-14:16:57.371 1ef0 Compacted 1@0 + 1@1 files => 2164 bytes
+2022/04/09-14:16:57.372 1ef0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/09-14:16:57.372 1ef0 Delete type=2 #10
+2022/04/09-14:16:57.372 1ef0 Delete type=2 #12
+2022/04/09-14:16:57.373 1ef0 Manual compaction at level-0 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x002\x008\x004\x003\x006\x004\x004\x000\x003\x009\x006\x00:\x00w\x00e\x00b\x00:\x000\x00e\x00c\x00f\x003\x000\x00a\x001\x00e\x00e\x001\x00d\x005\x001\x007\x00f\x003\x00a\x009\x003\x00e\x009' @ 218 : 1 .. (end); will stop at (end)
+2022/04/09-14:16:57.373 1ef0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x002\x008\x004\x003\x006\x004\x004\x000\x003\x009\x006\x00:\x00w\x00e\x00b\x00:\x000\x00e\x00c\x00f\x003\x000\x00a\x001\x00e\x00e\x001\x00d\x005\x001\x007\x00f\x003\x00a\x009\x003\x00e\x009' @ 230 : 1
+2022/04/09-14:16:57.374 1ef0 Compacting 1@1 + 1@2 files
+2022/04/09-14:16:57.376 1ef0 Generated table #14@1: 36 keys, 1545 bytes
+2022/04/09-14:16:57.376 1ef0 Compacted 1@1 + 1@2 files => 1545 bytes
+2022/04/09-14:16:57.377 1ef0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/09-14:16:57.377 1ef0 Delete type=2 #5
+2022/04/09-14:16:57.378 1ef0 Delete type=2 #13
+2022/04/09-14:16:57.379 1ef0 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x002\x008\x004\x003\x006\x004\x004\x000\x003\x009\x006\x00:\x00w\x00e\x00b\x00:\x000\x00e\x00c\x00f\x003\x000\x00a\x001\x00e\x00e\x001\x00d\x005\x001\x007\x00f\x003\x00a\x009\x003\x00e\x009' @ 230 : 1 .. (end); will stop at (end)
